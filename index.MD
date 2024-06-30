@@ -11,6 +11,8 @@ BORRADOR INFORME PROGRESO I: https://github.com/ikerroa7/TFG_Berserk2D/blob/67ac
 
 ### INFORMES FINALES
 
+INFORME INICIAL: https://github.com/ikerroa7/TFG_Berserk2D/blob/08b5fcd2a7e0070a83caa25d93f0f88af5dfe11e/InformeTFG-INICIAL.pdf
+
 INFORME PROGRESO I: https://github.com/ikerroa7/TFG_Berserk2D/blob/67ac6362677cc69cc75b5f49d6f91539f361aa2d/INFORME%20PROGRES%20I.pdf
 
 INFORME PROGRESO II: https://github.com/ikerroa7/TFG_Berserk2D/blob/67ac6362677cc69cc75b5f49d6f91539f361aa2d/INFORME%20PROGRES%20II.pdf
